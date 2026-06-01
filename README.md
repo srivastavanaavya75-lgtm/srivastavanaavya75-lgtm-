@@ -110,7 +110,7 @@
 <br/><br/>
 
 > 📧 &nbsp; **srivastavanaavya75@gmail.com**
-> 
+>
 > 🔗 &nbsp; **linkedin.com/in/naavya-srivastava-661bb03ba**
 
 </div>
@@ -120,15 +120,15 @@
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   naavya@github:~$ echo "Thanks for stopping by!"      │
-│   > If you like my work, drop a ⭐ on my repos!        │
-│   > Let's connect and build something amazing 🚀       │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+╔──────────────────────────────────────────────────────╗
+║  naavya@github:~$ echo "Thanks for stopping by!"     ║
+║  > Star ⭐ my repos if you like my work!             ║
+║  > Let's connect and build something amazing! 🚀     ║
+╚──────────────────────────────────────────────────────╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0a0a0a&height=130&section=footer" />
+</div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0a0a0a&height=130&section=footer" />
 </div>
