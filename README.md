@@ -57,12 +57,12 @@
 ## `└─$ ./stats.sh`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srivastavanaavya75-lgtm&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&icon_color=00ff41&text_color=ccffcc&count_private=true&rank_icon=github" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srivastavanaavya75-lgtm&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&icon_color=00ff41&text_color=ccffcc&count_private=true" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=srivastavanaavya75-lgtm&theme=dark&hide_border=true&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&background=0a0a0a&dates=aaffaa&sideLabels=00ff41" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanaavya75-lgtm&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=ccffcc&langs_count=6" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanaavya75-lgtm&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=ccffcc" width="42%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
